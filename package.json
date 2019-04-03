@@ -1,0 +1,24 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhnh123/node-crawler.git"
+  },
+  "author": "linhnh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhnh123/node-crawler/issues"
+  },
+  "homepage": "https://github.com/linhnh123/node-crawler#readme",
+  "dependencies": {
+    "crawler": "^1.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
